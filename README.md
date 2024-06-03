@@ -1,4 +1,4 @@
-# vue-admin
+# vue-admin : The admin frontend for the ambassador app
 
 ## Project setup
 ```
